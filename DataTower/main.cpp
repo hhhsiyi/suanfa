@@ -45,7 +45,7 @@ int main()
             }
         }
     }
-    cout<<"\nÂ·¾¶"<<d[0][0];
+    cout<<"\nddasddè·¯å¾„"<<d[0][0];
     int j = path[0][0];
     for(int i= 1;i<5;i++)
     {
